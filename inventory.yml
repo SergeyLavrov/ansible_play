@@ -1,0 +1,6 @@
+webservers:
+  hosts:
+    webserver01:
+      ansible_host:
+    webserver02:
+      ansible_host:
